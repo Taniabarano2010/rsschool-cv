@@ -30,4 +30,4 @@ SGKSTID- Faculty of Management of Service Technologies, specialty: manager
 English: A1 - Elementary
 
 ## My progects:
-CV (https://github.com/Taniabarano2010/rsschool-cv1)
+CV (https://Taniabarano2010.github.io/rsschool-cv/cv)
