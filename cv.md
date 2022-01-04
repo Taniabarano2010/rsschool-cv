@@ -2,8 +2,8 @@
 39 years old, born on February 17, 1982
 
 ## Contacts:
-+7 (927) 7449378 
-e-mail-tania.barano2010@mail.ru 
+* +7 (927) 7449378 
+* e-mail-tania.barano2010@mail.ru 
 
 ## About me:
 Work experience -17 years For 10 years, I have been working in the field of telecommunications services to this day 7 years in sales
